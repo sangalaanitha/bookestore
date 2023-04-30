@@ -12,7 +12,12 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center">  The purpose of this software is to manage the books in the book store. 
+   Generally, it includes the Order Processing, Stock Management and Accounts Management. 
+   We developed this software to maintains records of sales, purchase and staff records.
+    This project developed using ASP.NET as front end and SQL Server as Back end. 
+    Here we are try to develop such type system which is provide the automation on the any type of the bookshop. 
+    That means a shop which has the type system which provides the facility to the customers of the shop to purchase the books from the shop without any complexity.
     <br> 
 </p>
 
