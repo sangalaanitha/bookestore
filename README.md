@@ -1,8 +1,5 @@
 
-# bookestore using Servelets,JSP And MySql
-
-
-
+# BookStore using Servelets,JSP,MySql,HTML,CSS
 # project-documentation
 
 <p align="center">
