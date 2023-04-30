@@ -46,6 +46,10 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be
 https://start.spring.io/
+https://www.eclipse.org/downloads/
+https://start.spring.io/
+https://dev.mysql.com/downloads/mysql/
+https://www.htmlpad.net/download.php
 Give the example
 
 And repeat
